@@ -213,7 +213,7 @@ blog style
          margin-left: 16px;
      }
      .blog-title{
-         font-size: 15px;
+        font-size:15px;
      }
    .courses{
        grid-template-columns: repeat(1,1fr);
